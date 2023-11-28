@@ -8,8 +8,8 @@
   <li>SASS</li>
   <li>BOOTSTRAP</li>
   <li>JAVASCRIPT</li>
-  <p>JQuery</p>
-  <p>Angular JS</p>
+  <li>JQuery</li>
+  <li>Angular JS</li>
 </ul>
 
 
