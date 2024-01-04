@@ -5,6 +5,7 @@
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>Tailwind CSS</li>
   <li>SASS</li>
   <li>BOOTSTRAP</li>
   <li>JAVASCRIPT</li>
