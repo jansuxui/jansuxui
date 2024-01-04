@@ -9,7 +9,7 @@
   <li>BOOTSTRAP</li>
   <li>JAVASCRIPT</li>
   <li>JQuery</li>
-  <li>Angular JS</li>
+  <li>React JS</li>
 </ul>
 
 
