@@ -9,8 +9,9 @@
   <li>SASS</li>
   <li>BOOTSTRAP</li>
   <li>JAVASCRIPT</li>
-  <li>JQuery</li>
   <li>React JS</li>
+  <li>Postman</li>
+   <li>Firebase</li>
 </ul>
 
 
