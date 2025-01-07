@@ -1,5 +1,4 @@
 <h3> 👋 Hi, I’m Jans Banu </h3>
----
 <p>User Interface & User Experience Designer / Front End Developer</p>
 
 <h4>💻 Skills</h4>
