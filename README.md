@@ -1,5 +1,5 @@
 <h3> 👋 Hi, I’m Jans Banu </h3>
-<p>User Interface & User Experience Designer / Front End Developer</p>
+<p>Senior UI & UX Designer / Front End Developer @ Izaap technologies</p>
 
 <h4>💻 Skills</h4>
 <ul>
